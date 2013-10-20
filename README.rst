@@ -1,21 +1,17 @@
-UNIVERSIDAD NACIONAL DE CÓRDOBA
-===============================
+**UNIVERSIDAD NACIONAL DE CÓRDOBA**
 
-FACULTAD DE CIENCIAS ECONÓMICAS
--------------------------------
+**FACULTAD DE CIENCIAS ECONÓMICAS**
 
-ESCUELA DE GRADUADOS EN CIENCIAS ECONÓMICAS
--------------------------------------------
+**ESCUELA DE GRADUADOS EN CIENCIAS ECONÓMICAS**
 
-MAESTRÍA EN DIRECCIÓN DE NEGOCIOS
----------------------------------
-
-TRABAJO FINAL DE APLICACIÓN
----------------------------
+**MAESTRÍA EN DIRECCIÓN DE NEGOCIOS**
 
 
-**Costos de fletes terciarizados vs costos de fletes con flota propia**
-**en un operador Logístico**
+**TRABAJO FINAL DE APLICACIÓN**
+
+
+Costos de fletes terciarizados vs costos de fletes con flota propia en un operador Logístico
+============================================================================================
 
 
 :Autor: Luczywo, Nadia Ayelen
